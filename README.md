@@ -13,9 +13,13 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is
-* Ask Mr. Vu anything:
+* Something interesting about me is that I enjoy ceramics and 3D designing.
+* Ask Mr. Vu anything: Anything?
 * List your sports and extracurriculars you participate in
-
-## Edit Log
-* pp
+    * FRC
+    * OCSEF
+    * Exploravision
+    * Nanovation
+    * Hydrogen Grand Prix
+    * CyberPatriots
+    * something something
